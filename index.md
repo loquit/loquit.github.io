@@ -33,6 +33,7 @@ Questioni di lingua italiana nel De Vulgari Eloquentia
 L’approccio orientato all’azione
 nell’apprendimento della lingua italiana
 
+<hr>
 
 #### 16.00 - 16.45
 
@@ -45,7 +46,40 @@ L’italiano in gioco attraverso le canzoni
 
 ### Venerdì 3 Novembre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla. Quisque lorem arcu, tincidunt ac est in, posuere consequat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus egestas ipsum, nec volutpat neque ullamcorper nec. Proin finibus at dui vitae varius. Cras magna leo, hendrerit sit amet enim sit amet, consequat bibendum purus. Proin ut justo felis. Aliquam cursus ligula fermentum est pretium dictum. 
+#### 09.45 
+
+Apertura dei lavori
+
+<hr>
+
+
+#### 10.00 - 10.45
+**M. Bolpagni** - **M. Petolicchio**
+
+*Università di Opava - FF UP Olomouc*
+
+Introduzione a Czech-IT! e applicazioni
+computazionali alla corpus linguistics
+
+<hr>
+
+#### 11.00 - 11.45
+**O. Usenko**
+
+*FF UP Olomouc*
+
+Formazione di un interprete
+
+<hr>
+
+
+#### 12.00 - 12.45
+**G. Cadorini**
+
+*Università di Opava*
+
+Le lingue romanze d’Italia nel DÈRom
+
 
 
 ## Contatti

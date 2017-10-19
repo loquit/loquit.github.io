@@ -13,6 +13,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla
 #### 13.45
 Apertura dei lavori
 
+<hr>
+
 #### 14.00 - 14.45
 **P.Tabacchini** - **M.Petolicchio**
 
@@ -20,6 +22,7 @@ Apertura dei lavori
 
 Questioni di lingua italiana nel De Vulgari Eloquentia
 
+<hr>
 
 #### 15.00 - 15.45
 

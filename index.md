@@ -15,7 +15,7 @@
 
 	<body>
 
-		<div class="jumbotron jumbotron-fluid" style="background-image:url('imdsag/bg.jpg'); background-size: cover; background-position: 0 320; background-color:#24789a;color:#fff">
+		<div id="top" class="jumbotron jumbotron-fluid" style="background-image:url('imdsag/bg.jpg'); background-size: cover; background-position: 0 320; background-color:#24789a;color:#fff">
 		  <div class="container">
 		    <h1 class="display-1" style="font-weight: 900">LoquIT</h1><br>
 		    <h3 class="display-5" style="font-weight: 700">Colloquia di Italianistica</h3><br>
@@ -41,7 +41,7 @@
 
 		<div class="container container-fluid">
 
-			<h2 class="display-4">Programma</h2><br><br><br>
+			<h2 class="display-4" id="programma">Programma</h2><br><br><br>
 			<h3 class="display-5">Giovedì 2 Novembre</h3><br>
 			<h4><a href="http://inet.upol.cz/?mistnost=S090.02.0230" target="_blank">Aula 2.23</a></h4>
 			<br>
@@ -160,7 +160,7 @@
 
 		<div class="container container-fluid">
 
-					<h2 class="display-4">Mappa</h2><br><br><br>
+					<h2 class="display-4" id="mappa">Mappa</h2><br><br><br>
 
 <div id="map" style="height:640px; width:100%"></div>
 <script>
@@ -182,6 +182,37 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOzYDjfHYjvoslg9NUyh39gUF
 
 		</div>
 		<br><br><br>
+
+ <footer id="myFooter" style="background-color:#e6e6e6; margin:0">
+ <br><br><br>
+        <div class="container container-fluid" style="padding:1em">
+            <div class="row">
+                <div class="col-sm-6 info">
+                    <h5>Informazioni</h5>
+                    <p> Nelle giornate di giovedì 2 e venerdì 3 novembre, presso l'Università Palacký di Olomouc (CZ), si svolgerà il workshop <strong>LoquIT – Colloquia di Italianistica</strong>.</p>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Navigazione</h5>
+                    <ul>
+                        <li><a href="#top">Torna in cima</a></li>
+                        <li><a href="#programma">Programma</a></li>
+                        <li><a href="#mappa">Mappa</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Link</h5>
+                    <ul>
+                        <li><a href="https://www.ff.upol.cz/" target="_blank">FF UPOL</a></li>
+                        <li><a href="https://romanistika.upol.cz/katedra/italska_filologie.html" target="_blank">Italská filologie</a></li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </div>
+  <br><br><br>       
+    </footer>
+
 
 	</body>
 

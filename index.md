@@ -1,89 +1,152 @@
----
-title: Loquit
-headline: Colloquia di Italianistica
-text: 2 - 3 Novembre 2017 | Filozofická fakulta, Tř. Svobody 26, Olomouc
----
+<html>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla. Quisque lorem arcu, tincidunt ac est in, posuere consequat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus egestas ipsum, nec volutpat neque ullamcorper nec. Proin finibus at dui vitae varius. Cras magna leo, hendrerit sit amet enim sit amet, consequat bibendum purus. Proin ut justo felis. Aliquam cursus ligula fermentum est pretium dictum. 
+	<head>
+		<title>LoquIT 2017</title>
+		 <!-- Required meta tags -->
+	    <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-## Programma
+	    <!-- Bootstrap CSS -->
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+ 
+	</head>
 
-<hr>
-### Giovedì 2 Novembre
-<hr>
-#### 13.45
-Apertura dei lavori
 
-<hr>
 
-#### 14.00 - 14.45
-**P.Tabacchini** - **M.Petolicchio**
+	<body>
 
-*FF UP Olomouc*
+		<div class="jumbotron jumbotron-fluid" style="background-image:url('imdsag/bg.jpg'); background-size: cover; background-position: 0 320; background-color:#24789a;color:#fff">
+		  <div class="container">
+		    <h1 class="display-1" style="font-weight: 900">LoquIT</h1><br>
+		    <h3 class="display-5" style="font-weight: 700">Colloquia di Italianistica</h3><br>
+		    <p class="lead">2 - 3 Novembre 2017 | Filozofická fakulta, tř. Svobody 686/26, Olomouc</p>
+		  </div>
+		</div>
 
-Questioni di lingua italiana nel De Vulgari Eloquentia
 
-<hr>
+		<div class="container container-fluid">
+			<p class="lead">Nelle giornate di giovedì 2 e venerdì 3 novembre, presso l'Università Palacký di Olomouc (CZ), si svolgerà il workshop <strong>LoquIT – Colloquia di Italianistica</strong>.</p>
 
-#### 15.00 - 15.45
+			<p class="lead">L'evento,  organizzato dal <strong>Centro di Studi Italiani</strong> della stessa università, vuole essere un'occasione di incontro e scambio tra i professionisti della didattica dell'italiano e gli studenti o i semplici interessati all´argomento. Il tema centrale sarà l'insegnamento e l'apprendimento della lingua italiana, visto all´interno di una riflessione più ampia sulla questione della lingua italiana in rapporto alle realtà concrete dei dialetti presenti nella penisola.</p>
 
-**G. Falsaperna**
 
-*Università di Vienna*
+			<p class="lead">Gli interventi affiancheranno approcci teorici e applicati. Essendo infatti il pubblico degli apprendenti dell'italiano in quanto L2 l'obiettivo principale dell'incontro, si cercherà di suscitare in esso un dinamico coinvolgimento attraverso esercitazioni pratiche e un continuo interscambio comunicativo.   </p> 
+		</div>
 
-L’approccio orientato all’azione
-nell’apprendimento della lingua italiana
-
-<hr>
-
-#### 16.00 - 16.45
-
-**E. Skříčková**
-
-*FF UP Olomouc*
-
-L’italiano in gioco attraverso le canzoni
-
-<hr>
-### Venerdì 3 Novembre
-<hr>
-#### 09.45 
-
-Apertura dei lavori
+<br><br>
 
 <hr>
 
+<br><br>
 
-#### 10.00 - 10.45
-**M. Bolpagni** - **M. Petolicchio**
+		<div class="container container-fluid">
 
-*Università di Opava - FF UP Olomouc*
+			<h2 class="display-4">Programma</h2><br><br><br>
+			<h3 class="display-5">Giovedì 2 Novembre</h3><br><br>
+			
 
-Introduzione a Czech-IT! e applicazioni
-computazionali alla corpus linguistics
+  			<!-- List group -->
+  			<div class="card">
+			  <div class="card-body">
+			  <p>13.45</p>
+			    <h4 class="card-title">Apertura dei lavori</h4>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>14.00 - 14:45</p>
+			    <h4 class="card-title">Questioni di lingua italiana nel De Vulgari Eloquentia</h4>
+			    <p class="card-text"><strong>P. Tabacchini - M. Petolicchio</strong><br>
+			    FF UP Olomouc</p>
+			    Paolo <a href="#" class="btn btn-primary">Slides</a><br><br>
+			    Marco <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-outline-primary">Mappa</a>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>15.00 - 15:45</p>
+			    <h4 class="card-title">L'approccio orientato all'azione nell'apprendimento della lingua italiana</h4>
+			    <p class="card-text"><strong>G. Falsaperna</strong><br>
+			    Università di Vienna</p>
+			    <a href="#" class="btn btn-primary">Slides</a>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>16.00 - 16:45</p>
+			    <h4 class="card-title">L'italiano in gioco attraverso le canzoni</h4>
+			    <p class="card-text"><strong>E. Skříčková</strong><br>
+			    FF UP Olomouc</p>
+			    <a href="#" class="btn btn-primary">Slides</a>
+			  </div>
+			</div>
+<br><br><br>
+
+			<h3 class="display-5">Venerdì 3 Novembre</h3><br><br>
+			
+
+  			<!-- List group -->
+  			<div class="card">
+			  <div class="card-body">
+			  <p>09.45</p>
+			    <h4 class="card-title">Apertura dei lavori</h4>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>10.00 - 10:45</p>
+			    <h4 class="card-title">Introduzione a Czech-IT! e applicazioni computazionali alla <em>corpus linguistics</em></h4>
+			    <p class="card-text"><strong>M. Bolpagni - M. Petolicchio</strong><br>
+			    Università di Opava - FF UP Olomouc</p>
+			    <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-outline-primary">Survey 1</a>
+			    <a href="#" class="btn btn-outline-primary">Survey 2</a>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>11.00 - 11:45</p>
+			    <h4 class="card-title">Formazione di un interprete</h4>
+			    <p class="card-text"><strong>O. Usenko</strong><br>
+			    FF UP Olomouc</p>
+			    <a href="#" class="btn btn-primary">Slides</a>
+			  </div>
+			</div>
+			<br>
+
+			<div class="card">
+			  <div class="card-body">
+			  <p>12.00 - 12.45</p>
+			    <h4 class="card-title">Le lingue romanze d'Italia nel DERom</h4>
+			    <p class="card-text"><strong>G. Cadorini</strong><br>
+			     Università di Opava</p>
+			    <a href="#" class="btn btn-primary">Slides</a>
+			  </div>
+			</div>
+		
+
+
+		</div>
+			<br><br>
 
 <hr>
 
-#### 11.00 - 11.45
-**O. Usenko**
+<br><br>
 
-*FF UP Olomouc*
+		<div class="container container-fluid">
 
-Formazione di un interprete
-
-<hr>
-
-
-#### 12.00 - 12.45
-**G. Cadorini**
-
-*Università di Opava*
-
-Le lingue romanze d’Italia nel DÈRom
-<hr>
-
-
-## Contatti
+					<h2 class="display-4">Programma</h2><br><br><br>
 
 <div id="map" style="height:640px; width:100%"></div>
 <script>
@@ -103,3 +166,10 @@ map: map
 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOzYDjfHYjvoslg9NUyh39gUFqwYxrFBg&callback=initMap">
 </script>
 
+		</div>
+		<br><br><br>
+
+	</body>
+
+
+</html>

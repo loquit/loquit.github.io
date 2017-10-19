@@ -42,7 +42,9 @@
 		<div class="container container-fluid">
 
 			<h2 class="display-4">Programma</h2><br><br><br>
-			<h3 class="display-5">Giovedì 2 Novembre</h3><br><br>
+			<h3 class="display-5">Giovedì 2 Novembre</h3><br>
+			<h4><a href="http://inet.upol.cz/?mistnost=S090.02.0230" target="_blank">Aula 2.23</a></h4>
+			<br>
 			
 
   			<!-- List group -->
@@ -56,16 +58,26 @@
 
 			<div class="card">
 			  <div class="card-body">
-			  <p>14.00 - 14:45</p>
+			    <p>14.00 - 14:45</p>
 			    <h4 class="card-title">Questioni di lingua italiana nel De Vulgari Eloquentia</h4>
-			    <p class="card-text"><strong>P. Tabacchini - M. Petolicchio</strong><br>
+			    <h5 class="">Il De Vulgari Eloquentia e la questione della lingua italiana</h5>
+			    <p class="card-text"><strong>P. Tabacchini</strong><br>
 			    FF UP Olomouc</p>
-			    Paolo <a href="#" class="btn btn-primary">Slides</a><br><br>
-			    Marco <a href="#" class="btn btn-primary">Slides</a>
-			    <a href="#" class="btn btn-outline-primary">Mappa</a>
+			    <a href="https://drive.google.com/open?id=1YsUMd0mlGHyO_YCRnDSMbzEgOmjYkbJtsYRBg1ILcF8" target="_blank" class="btn btn-primary">Slides</a>
+			    <br><br>
+			    <h5 class="">Note di dialettologia dantesca</h5>
+			    <p class="card-text"><strong>M. Petolicchio</strong><br>
+			    FF UP Olomouc</p>
+			    <a href="https://drive.google.com/open?id=1sHiM5bl4c9XBUH-TFiL3jQg5RPBUMNs6iRIbk3U9wnk"  target="_blank" class="btn btn-primary">Slides</a>
+			    <a href="https://drive.google.com/open?id=1Nt1RFtAk3OU7HdWV2nvY7loerog&usp=sharing" target="_blank" class="btn btn-outline-primary">Mappa</a>
 			  </div>
 			</div>
 			<br>
+
+
+
+
+
 
 			<div class="card">
 			  <div class="card-body">
@@ -73,7 +85,7 @@
 			    <h4 class="card-title">L'approccio orientato all'azione nell'apprendimento della lingua italiana</h4>
 			    <p class="card-text"><strong>G. Falsaperna</strong><br>
 			    Università di Vienna</p>
-			    <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-primary disabled">Slides</a>
 			  </div>
 			</div>
 			<br>
@@ -84,12 +96,14 @@
 			    <h4 class="card-title">L'italiano in gioco attraverso le canzoni</h4>
 			    <p class="card-text"><strong>E. Skříčková</strong><br>
 			    FF UP Olomouc</p>
-			    <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-primary disabled">Slides</a>
 			  </div>
 			</div>
 <br><br><br>
 
-			<h3 class="display-5">Venerdì 3 Novembre</h3><br><br>
+			<h3 class="display-5">Venerdì 3 Novembre</h3><br>
+			<h4><a href="http://inet.upol.cz/?mistnost=S100.02.0140" target="_blank">Aula 2.14</a></h4>
+			<br>
 			
 
   			<!-- List group -->
@@ -107,9 +121,9 @@
 			    <h4 class="card-title">Introduzione a Czech-IT! e applicazioni computazionali alla <em>corpus linguistics</em></h4>
 			    <p class="card-text"><strong>M. Bolpagni - M. Petolicchio</strong><br>
 			    Università di Opava - FF UP Olomouc</p>
-			    <a href="#" class="btn btn-primary">Slides</a>
-			    <a href="#" class="btn btn-outline-primary">Survey 1</a>
-			    <a href="#" class="btn btn-outline-primary">Survey 2</a>
+			    <a href="#" class="btn btn-primary disabled">Slides</a>
+			    <a href="#" class="btn btn-outline-primary disabled">Survey 1</a>
+			    <a href="#" class="btn btn-outline-primary disabled">Survey 2</a>
 			  </div>
 			</div>
 			<br>
@@ -120,7 +134,7 @@
 			    <h4 class="card-title">Formazione di un interprete</h4>
 			    <p class="card-text"><strong>O. Usenko</strong><br>
 			    FF UP Olomouc</p>
-			    <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-primary disabled">Slides</a>
 			  </div>
 			</div>
 			<br>
@@ -131,7 +145,7 @@
 			    <h4 class="card-title">Le lingue romanze d'Italia nel DERom</h4>
 			    <p class="card-text"><strong>G. Cadorini</strong><br>
 			     Università di Opava</p>
-			    <a href="#" class="btn btn-primary">Slides</a>
+			    <a href="#" class="btn btn-primary disabled">Slides</a>
 			  </div>
 			</div>
 		
@@ -146,7 +160,7 @@
 
 		<div class="container container-fluid">
 
-					<h2 class="display-4">Programma</h2><br><br><br>
+					<h2 class="display-4">Mappa</h2><br><br><br>
 
 <div id="map" style="height:640px; width:100%"></div>
 <script>

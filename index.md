@@ -15,10 +15,30 @@ Apertura dei lavori
 
 #### 14.00 - 14.45
 **P.Tabacchini** - **M.Petolicchio**
-FF UP Olomouc
+
+*FF UP Olomouc*
+
 Questioni di lingua italiana nel De Vulgari Eloquentia
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla. Quisque lorem arcu, tincidunt ac est in, posuere consequat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus egestas ipsum, nec volutpat neque ullamcorper nec. Proin finibus at dui vitae varius. Cras magna leo, hendrerit sit amet enim sit amet, consequat bibendum purus. Proin ut justo felis. Aliquam cursus ligula fermentum est pretium dictum. 
+
+#### 15.00 - 15.45
+
+**G. Falsaperna**
+
+*Università di Vienna*
+
+L’approccio orientato all’azione
+nell’apprendimento della lingua italiana
+
+
+#### 16.00 - 16.45
+
+**E. Skříčková**
+
+*FF UP Olomouc*
+
+L’italiano in gioco attraverso le canzoni
+
 
 ### Venerdì 3 Novembre
 

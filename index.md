@@ -8,8 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla
 
 ## Programma
 
+<hr>
 ### Giovedì 2 Novembre
-
+<hr>
 #### 13.45
 Apertura dei lavori
 
@@ -43,9 +44,9 @@ nell’apprendimento della lingua italiana
 
 L’italiano in gioco attraverso le canzoni
 
-
+<hr>
 ### Venerdì 3 Novembre
-
+<hr>
 #### 09.45 
 
 Apertura dei lavori
@@ -79,7 +80,7 @@ Formazione di un interprete
 *Università di Opava*
 
 Le lingue romanze d’Italia nel DÈRom
-
+<hr>
 
 
 ## Contatti

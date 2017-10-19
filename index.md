@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec laoreet nulla
 function initMap() {
 var uluru = {lat: 49.5899205, lng: 17.2493817};
 var map = new google.maps.Map(document.getElementById('map'), {
-zoom: 4,
+zoom: 17,
 center: uluru
 });
 var marker = new google.maps.Marker({

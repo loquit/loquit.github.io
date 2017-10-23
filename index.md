@@ -66,7 +66,7 @@
 			    FF UP Olomouc</p>
 			    <a href="https://drive.google.com/open?id=1YsUMd0mlGHyO_YCRnDSMbzEgOmjYkbJtsYRBg1ILcF8" target="_blank" class="btn btn-primary">Slides</a>
 			    <br><br>
-			    <h5 class="">Note di dialettologia dantesca</h5>
+			    <h5 class="">Piccole note di dialettologia dantesca</h5>
 			    <p class="card-text"><strong>M. Petolicchio</strong><br>
 			    FF UP Olomouc</p>
 			    <a href="https://drive.google.com/open?id=1sHiM5bl4c9XBUH-TFiL3jQg5RPBUMNs6iRIbk3U9wnk"  target="_blank" class="btn btn-primary">Slides</a>

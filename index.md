@@ -61,6 +61,7 @@
 			    <p>14.00 - 14:45</p>
 			    <h4 class="card-title">Questioni di lingua italiana nel De Vulgari Eloquentia</h4>
 			    <h5 class="">Il De Vulgari Eloquentia e la questione della lingua italiana</h5>
+			    <br><br>
 			    <p class="card-text"><strong>P. Tabacchini</strong><br>
 			    FF UP Olomouc</p>
 			    <a href="https://drive.google.com/open?id=1YsUMd0mlGHyO_YCRnDSMbzEgOmjYkbJtsYRBg1ILcF8" target="_blank" class="btn btn-primary">Slides</a>

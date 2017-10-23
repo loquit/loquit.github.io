@@ -61,16 +61,20 @@
 			    <p>14.00 - 14:45</p>
 			    <h4 class="card-title">Questioni di lingua italiana nel De Vulgari Eloquentia</h4>
 			    <br><br>
+			    <ul>
+			    <li>
 			    <h5 class="">Il De Vulgari Eloquentia e la questione della lingua italiana</h5>    
 			    <p class="card-text"><strong>P. Tabacchini</strong><br>
 			    FF UP Olomouc</p>
-			    <a href="https://drive.google.com/open?id=1YsUMd0mlGHyO_YCRnDSMbzEgOmjYkbJtsYRBg1ILcF8" target="_blank" class="btn btn-primary">Slides</a>
+			    <a href="https://drive.google.com/open?id=1YsUMd0mlGHyO_YCRnDSMbzEgOmjYkbJtsYRBg1ILcF8" target="_blank" class="btn btn-primary">Slides</a></li>
 			    <br><br>
+			    <li>
 			    <h5 class="">Piccole note di dialettologia dantesca</h5>
 			    <p class="card-text"><strong>M. Petolicchio</strong><br>
 			    FF UP Olomouc</p>
 			    <a href="https://drive.google.com/open?id=1sHiM5bl4c9XBUH-TFiL3jQg5RPBUMNs6iRIbk3U9wnk"  target="_blank" class="btn btn-primary">Slides</a>
-			    <a href="https://drive.google.com/open?id=1Nt1RFtAk3OU7HdWV2nvY7loerog&usp=sharing" target="_blank" class="btn btn-outline-primary">Mappa dei dialetti</a>
+			    <a href="https://drive.google.com/open?id=1Nt1RFtAk3OU7HdWV2nvY7loerog&usp=sharing" target="_blank" class="btn btn-outline-primary">Mappa dei dialetti</a></li>
+			    </ul>
 			  </div>
 			</div>
 			<br>

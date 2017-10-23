@@ -122,7 +122,7 @@
 			    <p class="card-text"><strong>M. Bolpagni - M. Petolicchio</strong><br>
 			    Università di Opava - FF UP Olomouc</p>
 			    <a href="#" class="btn btn-primary disabled">Slides</a>
-			    <a href="https://drive.google.com/open?id=1TWCGLQY2087rx-58yyqaiqnOkfu3fc-U_0s3HrmRGyE" target="_blank" class="btn btn-outline-primary">Survey 1</a>
+			    <a href="https://drive.google.com/open?id=1TWCGLQY2087rx-58yyqaiqnOkfu3fc-U_0s3HrmRGyE" target="_blank" class="btn btn-outline-primary">Survey</a>
 			  </div>
 			</div>
 			<br>

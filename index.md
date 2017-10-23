@@ -69,7 +69,7 @@
 			    <p class="card-text"><strong>M. Petolicchio</strong><br>
 			    FF UP Olomouc</p>
 			    <a href="https://drive.google.com/open?id=1sHiM5bl4c9XBUH-TFiL3jQg5RPBUMNs6iRIbk3U9wnk"  target="_blank" class="btn btn-primary">Slides</a>
-			    <a href="https://drive.google.com/open?id=1Nt1RFtAk3OU7HdWV2nvY7loerog&usp=sharing" target="_blank" class="btn btn-outline-primary">Mappa</a>
+			    <a href="https://drive.google.com/open?id=1Nt1RFtAk3OU7HdWV2nvY7loerog&usp=sharing" target="_blank" class="btn btn-outline-primary">Mappa dei dialetti</a>
 			  </div>
 			</div>
 			<br>
@@ -122,8 +122,7 @@
 			    <p class="card-text"><strong>M. Bolpagni - M. Petolicchio</strong><br>
 			    Università di Opava - FF UP Olomouc</p>
 			    <a href="#" class="btn btn-primary disabled">Slides</a>
-			    <a href="#" class="btn btn-outline-primary disabled">Survey 1</a>
-			    <a href="#" class="btn btn-outline-primary disabled">Survey 2</a>
+			    <a href="https://drive.google.com/open?id=1TWCGLQY2087rx-58yyqaiqnOkfu3fc-U_0s3HrmRGyE" target="_blank" class="btn btn-outline-primary">Survey 1</a>
 			  </div>
 			</div>
 			<br>

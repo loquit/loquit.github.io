@@ -8,7 +8,11 @@
 
 	    <!-- Bootstrap CSS -->
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
- 
+	    
+	 <meta property="og:title" content="Loquit" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://loquit.github.io" />
+	<meta property="og:image" content="https://loquit.github.io/assets/images/locandina.png" />
 	</head>
 
 
@@ -90,7 +94,7 @@
 			    <h4 class="card-title">L'approccio orientato all'azione nell'apprendimento della lingua italiana</h4>
 			    <p class="card-text"><strong>G. Falsaperna</strong><br>
 			    Università di Vienna</p>
-			    <a href="#" class="btn btn-primary disabled">Slides</a>
+			    <a href="https://loquit.github.io/assets/slides/L'approccioorientato.pdf" class="btn btn-primary">Slides</a>
 			  </div>
 			</div>
 			<br>

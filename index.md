@@ -13,7 +13,7 @@
 	 <meta name="og:description" content="Colloquia di Italianistica | 2-3 Novembre 2017">
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://loquit.github.io" />
-	<meta property="og:image" content="https://loquit.github.io/assets/images/locandina.png" />
+	<meta property="og:image" content="https://loquit.github.io/assets/images/locandina.jpg" />
 	</head>
 
 

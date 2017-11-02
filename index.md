@@ -152,7 +152,7 @@
 			<div class="card">
 			  <div class="card-body">
 			  <p>12.00 - 12.45</p>
-			    <h4 class="card-title">Le lingue romanze d'Italia nel DERom</h4>
+			    <h4 class="card-title">Le lingue romanze d'Italia nel DÉRom</h4>
 			    <p class="card-text"><strong>G. Cadorini</strong><br>
 			     Università di Opava</p>
 			    <a href="https://loquit.github.io/assets/slides/DERom-LoquIt.pdf" class="btn btn-primary" target="_blank">Slides</a>

@@ -106,7 +106,7 @@
 			    <h4 class="card-title">L'italiano in gioco attraverso le canzoni</h4>
 			    <p class="card-text"><strong>E. Skříčková</strong><br>
 			    FF UP Olomouc</p>
-			    <a href="#" class="btn btn-primary disabled">Slides</a>
+			    <a href="https://loquit.github.io/assets/slides/eva-slides.pdf" target="_blank" class="btn btn-primary">Slides</a>
 			    <a href="https://loquit.github.io/assets/slides/eva.pdf" target="_blank" class="btn btn-outline-primary">Materiali supplementari</a>
 			  </div>
 			</div>

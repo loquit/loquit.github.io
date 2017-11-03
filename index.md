@@ -156,6 +156,7 @@
 			    <p class="card-text"><strong>G. Cadorini</strong><br>
 			     Università di Opava</p>
 			    <a href="https://loquit.github.io/assets/slides/DERom-LoquIt.pdf" class="btn btn-primary" target="_blank">Slides</a>
+			    <a href="https://loquit.github.io/assets/slides/Cadorini-par-scrivi.doc" target="_blank" class="btn btn-outline-primary">Survey</a>
 			  </div>
 			</div>
 		

@@ -144,7 +144,7 @@
 			    <h4 class="card-title">Formazione di un interprete</h4>
 			    <p class="card-text"><strong>O. Usenko</strong><br>
 			    FF UP Olomouc</p>
-			    <a href="#" class="btn btn-primary disabled">Slides</a>
+			    <a href="https://loquit.github.io/assets/slides/LOQUIT.2017.USENKO.pptx" target="_blank" class="btn btn-primary">Slides</a>
 			  </div>
 			</div>
 			<br>

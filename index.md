@@ -174,7 +174,8 @@
     <h2 class="display-4">Galleria</h2>
     <div class="clearfix">
 
-    <img src="assets/images/LoquITfoto/DSC_0326.jpg" class="img-fluid" alt="Responsive image">
+    <img src="assets/images/LoquITfoto/DSC_0321.jpg" class="img-fluid" alt="Responsive image">
+    <img src="assets/images/LoquITfoto/DSC_0326.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
     <img src="assets/images/LoquITfoto/DSC_0331.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
     <img src="assets/images/LoquITfoto/DSC_0333.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
     <img src="assets/images/LoquITfoto/DSC_0341.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
@@ -219,18 +220,59 @@
     <img src="assets/images/LoquITfoto/DSC_0463.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
     <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
     <img src="assets/images/LoquITfoto/DSC_0465.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
-    <img src="assets/images/LoquITfoto/DSC_0464.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0468.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0469.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0472.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0473.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0474.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0486.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0487.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0488.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0491.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0494.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0496.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0498.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0499.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0500.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0501.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0502.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0503.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0505.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0506.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0507.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0509.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0510.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0511.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0512.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0515.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0517.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0521.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0522.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0523.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0525.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0529.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0532.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0535.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0536.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0537.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0538.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0539.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0540.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0542.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0543.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0545.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0546.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0550.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0552.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0554.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0558.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0562.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0564.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0565.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    <img src="assets/images/LoquITfoto/DSC_0570.jpg" class="thumbnail img-thumbnail float-left" alt="..." width="300" height="300">
+    
 </div>
+<p>Si ringraziano per le fotografie delle due giornate <strong>Pepe Sikola</strong> e <strong>Jirka Hlaváček</strong>.</p>
 
 </div>
 
